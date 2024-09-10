@@ -44,7 +44,8 @@ Description: Initialize an existing directory as a Git repository
 Description: Retrieve an entire repository from a hosted location via URL
 Examples: git clone <URL>
 
-
+#COMMAND 11: git status
+Description: Show modified files in working directory, staged for your next commit
 
 
 
