@@ -40,6 +40,9 @@ GIT COMMANDS:
 #COMMAND 9: git init
 Description: Initialize an existing directory as a Git repository
 
+#COMMAND 10: git clone
+Description: Retrieve an entire repository from a hosted location via URL
+Examples: git clone <URL>
 
 
 
