@@ -20,7 +20,9 @@ Examples: mkdir new_directory (creates a new directory named “new_directory”
 Description: Remove files and directories
 Examples: rm myfile.txt (deletes the file named “myfile.txt”)
 
-
+#COMMAND 6: cp
+Description: Copy files and directories
+Examples: cp -r directory destination (copies the directory “directory” and its contents to the specified destination)
 
 
 
