@@ -8,4 +8,12 @@ Examples: ls -l (displays files and directories with detailed information)
 Description: Change directory
 Examples: cd /path/to/directory (changes the current directory to the specified path)
 
+#COMMAND 3: pwd
+Description: Print current working directory
+Examples: pwd (displays the current working directory)
+
+
+
+
+
 
