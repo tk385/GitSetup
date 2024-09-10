@@ -51,5 +51,11 @@ Description: Show modified files in working directory, staged for your next comm
 Description: Add a file as it looks now to your next commit (stage)
 Examples: git add <filename>
 
+#COMMAND 13: git reset
+Description: Unstage a file while retaining the changes in working directory
+Examples: git reset <filename>
+
+
+
 
 
