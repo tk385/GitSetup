@@ -1,5 +1,7 @@
 #Cheat Sheet for Linux and Git
 
+LINUX COMMANDS:
+
 #COMMAND 1: ls
 Description: List files and directories
 Examples: ls -l (displays files and directories with detailed information)
@@ -33,6 +35,10 @@ Description: View the contents of a file
 Examples: cat file.txt (displays the contents of the file “file.txt”)
 
 
+GIT COMMANDS:
+
+#COMMAND 9: git init
+Description: Initialize an existing directory as a Git repository
 
 
 
