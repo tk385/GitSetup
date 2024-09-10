@@ -58,5 +58,6 @@ Examples: git reset <filename>
 #COMMAND 14: git diff
 Description: Diff of what is changed but not staged
 
-
+#COMMAND 15: git branch
+Description: List your branches. A * will appear next to the currently active branch
 
