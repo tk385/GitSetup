@@ -4,5 +4,8 @@
 Description: List files and directories
 Examples: ls -l (displays files and directories with detailed information)
 
+#COMMAND 2: cd
+Description: Change directory
+Examples: cd /path/to/directory (changes the current directory to the specified path)
 
 
