@@ -44,7 +44,12 @@ Description: Initialize an existing directory as a Git repository
 Description: Retrieve an entire repository from a hosted location via URL
 Examples: git clone <URL>
 
-#COMMAND 10: git status
+#COMMAND 11: git status
 Description: Show modified files in working directory, staged for your next commit
+
+#COMMAND 12: git add
+Description: Add a file as it looks now to your next commit (stage)
+Examples: git add <filename>
+
 
 
