@@ -55,7 +55,8 @@ Examples: git add <filename>
 Description: Unstage a file while retaining the changes in working directory
 Examples: git reset <filename>
 
-
+#COMMAND 14: git diff
+Description: Diff of what is changed but not staged
 
 
 
