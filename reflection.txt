@@ -1,0 +1,8 @@
+MODULE 1 REFLECTION:
+
+
+Setting up the development environment for this assignment was both challenging and educational. Initially, I encountered several issues while configuring Git and connecting it to GitHub using SSH keys. However, these challenges helped me learn more about Git's inner workings, such as creating branches, merging, and resolving conflicts. I also became more familiar with using the terminal for Linux commands and using Vi as a text editor, which was a new experience for me.
+
+I feel more confident now in using Git for version control and managing a project in a more organized way. However, I still find some areas confusing, especially when dealing with errors related to non-fast-forward merges and conflicts. I believe I need further practice and clarification on handling these situations more smoothly, particularly with commands like git pull --rebase versus git merge.
+
+Overall, this activity helped me connect what I have learned previously about version control to practical scenarios. It reinforced my understanding of the importance of these tools in software development workflows.
