@@ -16,6 +16,11 @@ Examples: pwd (displays the current working directory)
 Description: Create a new directory
 Examples: mkdir new_directory (creates a new directory named “new_directory”)
 
+#COMMAND 5: rm
+Description: Remove files and directories
+Examples: rm myfile.txt (deletes the file named “myfile.txt”)
+
+
 
 
 
