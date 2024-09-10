@@ -24,5 +24,11 @@ Examples: rm myfile.txt (deletes the file named “myfile.txt”)
 Description: Copy files and directories
 Examples: cp -r directory destination (copies the directory “directory” and its contents to the specified destination)
 
+#COMMAND 7: mv
+Description: Move/rename files and directories
+Examples: mv file.txt new_name.txt (renames the file “file.txt” to “new_name.txt”)
+
+
+
 
 
