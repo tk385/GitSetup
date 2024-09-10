@@ -28,6 +28,13 @@ Examples: cp -r directory destination (copies the directory “directory” and 
 Description: Move/rename files and directories
 Examples: mv file.txt new_name.txt (renames the file “file.txt” to “new_name.txt”)
 
+#COMMAND 8: cat
+Description: View the contents of a file
+Examples: cat file.txt (displays the contents of the file “file.txt”)
+
+
+
+
 
 
 
